@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "discord.js": "discordjs/discord.js"
-  }
+  },
+  "name": "ALIE",
+  "version": "0.1.0",
+  "description": "All Love Is Equal",
+  "main": "main.js",
+  "repository": "https://github.com/WanhedaKaos/ALIE.git",
+  "author": "Noah <noahserus@gmail.com>",
+  "license": "MIT"
 }
